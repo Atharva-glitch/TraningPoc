@@ -59,7 +59,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 
     private List<Object> generateEmployeeData(List<Object> jsonList, Faker faker, ObjectMapper objectMapper, RequestModel requestModel){
 
-        for(int i=0;i< requestModel.getCount();i++) {
+        for(int i=0;i < requestModel.getCount();i++) {
             Employee employeeBuilder = Employee.builder()
                     .employeeId(faker.number().randomDigit())
                     .employeeName(faker.name().fullName())
