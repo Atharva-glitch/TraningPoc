@@ -1,0 +1,14 @@
+package com.xoriant.XorFakeData;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class XorFakeDataApplication {
+
+	public static void main(String[] args) {
+
+		SpringApplication.run(XorFakeDataApplication.class, args);
+	}
+
+}
