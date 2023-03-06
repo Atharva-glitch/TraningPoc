@@ -1,0 +1,7 @@
+com\xoriant\XorFakeData\service\impl\DataServiceImpl.class
+com\xoriant\XorFakeData\models\Employee.class
+com\xoriant\XorFakeData\XorFakeDataApplication.class
+com\xoriant\XorFakeData\service\DataService.class
+com\xoriant\XorFakeData\controller\RestController.class
+com\xoriant\XorFakeData\models\RequestModel.class
+com\xoriant\XorFakeData\models\Employee$EmployeeBuilder.class

@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.xoriant</groupId>
-	<artifactId>XorFakeData</artifactId>
+	<artifactId>XorMockData</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>XorFakeData</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

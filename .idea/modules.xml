@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/XorFakeData.iml" filepath="$PROJECT_DIR$/.idea/XorFakeData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/XorMockData.iml" filepath="$PROJECT_DIR$/.idea/XorMockData.iml" />
     </modules>
   </component>
 </project>

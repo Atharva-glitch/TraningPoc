@@ -9,8 +9,8 @@ public class Employee {
 
     private Integer employeeId;
     private String employeeName;
-    private String employeeAddress;
 
+    private Address address;
 
     public Integer getEmployeeId() {
         return employeeId;
@@ -20,8 +20,9 @@ public class Employee {
         return employeeName;
     }
 
-    public String getEmployeeAddress() {
-        return employeeAddress;
+
+    public Address getAddress() {
+        return address;
     }
 
     @Override
@@ -29,7 +30,7 @@ public class Employee {
         return "Employee{" +
                 "employeeId=" + employeeId +
                 ", employeeName='" + employeeName + '\'' +
-                ", employeeAddress='" + employeeAddress + '\'' +
+                ", address=" + address +
                 '}';
     }
 }
